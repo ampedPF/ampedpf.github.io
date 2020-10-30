@@ -20,7 +20,7 @@ You should:
 - From the Edit dropdown menu in OBS, Configure Advanced Audio Properties so that:
   - the audio sources you want on the livestream are active on track 1 (checkbox ticked)
   - the one that you want on the VoDs and the clips are active only on track 6
-    
+
     eg. everything except what's coming out of "[B] App." in the following scre
 
   ![APP](./images/AAP.png)
