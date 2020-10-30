@@ -22,7 +22,7 @@ You should:
   - the audio sources you want on the livestream are active on track 1 (checkbox ticked)
   - the one that you want on the VoDs and the clips are active only on track 6
 
-    eg. everything except what's coming out of "[B] App." in the following scre
+    eg. everything except what's coming out of "[B] App." in the following screenshot
 
   ![APP](./images/AAP.png)
 
