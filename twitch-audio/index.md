@@ -33,4 +33,6 @@ You should:
 
 Using [Voicemeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)[/Potato](https://vb-audio.com/Voicemeeter/potato.htm) and [Virtual Audio Cable](https://vb-audio.com/Cable/index.htm), you could set it up as per the following diagram
 
-![AudioDiagram](./images/AudioDiagram.png)
+<img src="./images/AudioDiagram.png" alt="drawing" width="100%"/>
+
+<!-- ![AudioDiagram](./images/AudioDiagram.png) -->
