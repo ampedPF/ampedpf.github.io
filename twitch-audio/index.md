@@ -15,6 +15,7 @@ After having everything installed and set.
 You should:
 
 - Have source for Soundtrack in your scene (feel free to have it embedded within a nested scene)
+
     ![SoundtrackSource](./images/SoundtrackSource.png)
 
 - From the Edit dropdown menu in OBS, Configure Advanced Audio Properties so that:
