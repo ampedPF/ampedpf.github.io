@@ -18,7 +18,7 @@ You should:
 
     ![SoundtrackSource](./images/SoundtrackSource.png)
 
-- From the Edit dropdown menu in OBS, Configure Advanced Audio Properties so that:
+- From the Edit dropdown menu in OBS, configure Advanced Audio Properties so that:
   - the audio sources you want on the livestream are active on track 1 (checkbox ticked)
   - the one that you want on the VoDs and the clips are active only on track 6
 
@@ -32,5 +32,9 @@ You should:
 ## #TODO 3. (Optional) Setup virtual audio routing
 
 Using [Voicemeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)[/Potato](https://vb-audio.com/Voicemeeter/potato.htm) and [Virtual Audio Cable](https://vb-audio.com/Cable/index.htm), you could set it up as per the following diagram
+
+On Windows 10, you can access the App volume and device preferences pannel by typing the following command:
+
+Win+ R > `ms-settings:app-volumes`
 
 <img src="./images/AudioDiagram.png" alt="AudioDiagram" width="100%"/>
