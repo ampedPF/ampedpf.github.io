@@ -1,4 +1,4 @@
-# How to split audio for Twitch live from VoDs & Clips
+# How to split audio for Twitch live from VoDs & clips
 
 The purpose of this write up is to allow you to have an audio source available on the livestream but muted on the VoD and the clips of the aforementioned livestream.
 
@@ -33,6 +33,4 @@ You should:
 
 Using [Voicemeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)[/Potato](https://vb-audio.com/Voicemeeter/potato.htm) and [Virtual Audio Cable](https://vb-audio.com/Cable/index.htm), you could set it up as per the following diagram
 
-<img src="./images/AudioDiagram.png" alt="drawing" width="100%"/>
-
-<!-- ![AudioDiagram](./images/AudioDiagram.png) -->
+<img src="./images/AudioDiagram.png" alt="AudioDiagram" width="100%"/>
